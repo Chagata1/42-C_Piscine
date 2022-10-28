@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bsavas <marvin@42.fr>                      +#+  +:+       +#+        */
+/*   By: ryayla <ryayla@student.42kocaeli.com.tr>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/07/24 18:39:46 by bsavas            #+#    #+#             */
-/*   Updated: 2022/07/24 18:43:23 by bsavas           ###   ########.fr       */
+/*   Created: 2022/07/24 13:41:44 by ryayla            #+#    #+#             */
+/*   Updated: 2022/07/24 13:41:47 by ryayla           ###   ########.tr       */
 /*                                                                            */
 /* ************************************************************************** */
 void	rush(int genislik, int uzunluk);

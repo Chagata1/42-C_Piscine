@@ -3,13 +3,12 @@
 /*                                                        :::      ::::::::   */
 /*   rush02.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bsavas <marvin@42.fr>                      +#+  +:+       +#+        */
+/*   By: ryayla <ryayla@student.42kocaeli.com.tr>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/07/24 18:18:49 by bsavas            #+#    #+#             */
-/*   Updated: 2022/07/24 18:37:12 by bsavas           ###   ########.fr       */
+/*   Created: 2022/07/24 13:41:54 by ryayla            #+#    #+#             */
+/*   Updated: 2022/07/24 13:41:56 by ryayla           ###   ########.tr       */
 /*                                                                            */
 /* ************************************************************************** */
-
 #include <unistd.h>
 
 void	ft_putchar(char c);
