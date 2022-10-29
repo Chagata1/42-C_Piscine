@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strcat.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ryayla <ryayla@student.42kocaeli.com.tr>. +#+  +:+       +#+        */
+/*   By: ryayla <ryayla@student.42kocaeli.com.tr>.  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/02 10:42:56 by ryayla            #+#    #+#             */
 /*   Updated: 2022/08/02 10:54:36 by ryayla           ###   ########.fr       */
