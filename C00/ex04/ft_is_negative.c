@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_is_negative.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ryayla <marvin@42.fr>                      +#+  +:+       +#+        */
+/*   By: ryayla <ryayla@student.42kocaeli.com.tr>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/21 19:55:35 by ryayla            #+#    #+#             */
 /*   Updated: 2022/07/21 19:59:32 by ryayla           ###   ########.fr       */
