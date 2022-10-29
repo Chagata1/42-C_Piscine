@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlowcase.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ryayla <marvin@42.fr>                      +#+  +:+       +#+        */
+/*   By: ryayla <ryayla@student.42kocaeli.com.tr>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/28 16:40:02 by ryayla            #+#    #+#             */
 /*   Updated: 2022/08/03 12:22:52 by ryayla           ###   ########.fr       */
