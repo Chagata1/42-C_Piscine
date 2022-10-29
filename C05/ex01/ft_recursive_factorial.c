@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_recursive_factorial.c                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ryayla <marvin@42.fr>                      +#+  +:+       +#+        */
+/*   By: ryayla <ryayla@student.42kocaeli.com.tr>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/07 12:42:11 by ryayla            #+#    #+#             */
 /*   Updated: 2022/08/07 12:51:19 by ryayla           ###   ########.fr       */
