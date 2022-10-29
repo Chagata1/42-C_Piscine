@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strstr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ryayla <marvin@42.fr>                      +#+  +:+       +#+        */
+/*   By: ryayla <ryayla@student.42kocaeli.com.tr>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/02 17:51:47 by ryayla            #+#    #+#             */
 /*   Updated: 2022/08/02 17:52:06 by ryayla           ###   ########.fr       */
@@ -32,7 +32,7 @@ char	*ft_strstr(char *str, char *to_find)
 /*
  int    main()
  {
-     char str[] = "42 1337 Network 2021 piscine Benguerir Khouribga";
+     char str[] = "42 Kocaeli Network 2022 piscine Kocaeli İstanbul";
      char find[] = "piscine";
      printf("%s", ft_strstr(str, find));
  }
